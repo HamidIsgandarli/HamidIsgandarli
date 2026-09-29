@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Hamid Isgandarli 👋
 
-<!--
-**HamidIsgandarli/HamidIsgandarli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a student passionate about software development, learning new technologies.
 
-Here are some ideas to get you started:
+## About Me
+- 🎓 Student developer
+- 🌐 Location Baku, Azerbaijan
+- 💻 Interested in JavaScript, React, Python, C++, and C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- JavaScript
+- React
+- Python
+- C++
+- C#
+
+## Projects
+- [Car-App](https://github.com/HamidIsgandarli/Car-App)
+- [GuideX](https://github.com/HamidIsgandarli/GuideX)
+
+## GitHub Stats
+![Hamid's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamidIsgandarli&show_icons=true&theme=radical)
+
+## Contact
+- GitHub: [@HamidIsgandarli](https://github.com/HamidIsgandarli)
+
+## Goals
+I want to keep growing as a developer and create projects that help people.
