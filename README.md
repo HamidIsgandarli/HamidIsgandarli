@@ -23,6 +23,8 @@ I’m a student passionate about software development, learning new technologies
 
 ## Contact
 - GitHub: [@HamidIsgandarli](https://github.com/HamidIsgandarli)
+- Discord: [@egg1chan]
+- Email: hamisgen24@gmail.com
 
 ## Goals
 I want to keep growing as a developer and create projects that help people.
